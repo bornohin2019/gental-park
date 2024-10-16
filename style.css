@@ -14,3 +14,8 @@
 .box{
     width: 300px;
 }
+.footer-text{
+    font-size: 14px;
+    color: rgb(71, 71, 71);
+    margin-bottom: 0;
+}
